@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>groupdocs-dotnet</id>
+    <version>2.3.0</version>
+    <title>GroupDocs .NET SDK</title>
+    <authors>GroupDocs</authors>
+    <owners>GroupDocs</owners>
+    <projectUrl>https://github.com/groupdocs/groupdocs-dotnet</projectUrl>
+    <iconUrl>https://dl.dropbox.com/u/44211588/_GroupDocsIcon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>GroupDocs .NET SDK</description>
+    <summary>GroupDocs .NET SDK</summary>
+    <releaseNotes>Version 2.3.0 released</releaseNotes>
+    <tags>GroupDocs Viewer Annotation Assembly</tags>
+  </metadata>
+</package>
