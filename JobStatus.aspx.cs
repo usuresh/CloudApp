@@ -32,6 +32,11 @@ namespace NexusJobs
                 Response.Redirect("Login.aspx");
             }
 
+
+
+
+
+
             if (1 == Convert.ToInt32(Session["ssScreenType"].ToString()))
             {
                 lbClientName.Text = Session["ssClientName"].ToString();
